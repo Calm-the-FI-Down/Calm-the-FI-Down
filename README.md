@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to a personal finance resource that soothes those at the boring middle and educates those on their way.
+
 <!--
 **Calm-the-FI-Down/Calm-the-FI-Down** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
